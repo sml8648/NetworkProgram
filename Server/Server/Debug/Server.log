@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\이상문\source\repos\Server\Server\Source.cpp(9,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\이상문\source\repos\Server\Server\Source.cpp(98,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Server.vcxproj -> C:\Users\이상문\source\repos\Server\Debug\Server.exe
